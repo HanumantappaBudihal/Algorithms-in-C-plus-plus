@@ -1,0 +1,1 @@
+All documents should be placed here
