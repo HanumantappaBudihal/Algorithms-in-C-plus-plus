@@ -5,7 +5,7 @@ using namespace std;
 using namespace Algorithm;
 int main()
 {
-    const int maxElement = 10;
+    const int maxElement = 100;
     int inputArray[maxElement];
 
     //generate the random number and fill
